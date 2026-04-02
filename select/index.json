@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "あっけない",
   "base_artist": "めいちゃん",
-  "createdAt": "2026-03-12T09:36:36.040892Z",
+  "createdAt": "2026-04-02T04:43:08.212465Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "めいちゃん",
       "has_synced": false,
       "path": "select/pl_01_あっけない_めいちゃん.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "あっけない",
+      "artist": "めいちゃん",
+      "has_synced": false,
+      "path": "select/localdb_01_あっけない_めいちゃん.txt",
+      "repo_name": "yu_8dpZfZZ4"
     }
   ]
 }
